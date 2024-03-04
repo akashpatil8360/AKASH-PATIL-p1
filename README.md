@@ -1,2 +1,2 @@
 # AKASH-PATIL-p1
-this is my fust project
+this is my FIRST project
